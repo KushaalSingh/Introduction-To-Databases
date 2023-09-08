@@ -1,9 +1,3 @@
--- ***********************
--- Margaret Acheampong - 155949225 
--- Date: July 10th 2023
--- Purpose: Lab 07 DBS211
--- *********************
-
 --1. Transactions can be started by using the SET TRANSACTION command, BEGIN command, or implicity through DML COMMANDS and DDL commands
 
 --2.
