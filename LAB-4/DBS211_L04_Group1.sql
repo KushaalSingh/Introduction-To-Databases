@@ -1,16 +1,3 @@
--- -------------------------------------------
--- DBS211 - Lab 04
--- Group - 1
--- Date : 5/6/2023
-----------------------------------------------
-/*
-MEMBER 1 : Kushaal Singh 1153020228
-MEMBER 2 : Christian  Ziyu Ukiike 139915219
-MEMBER 3 : Margaret Acheampong 155949225
-*/
-
-
-
 -- Question 1
 /* Create a new empty table employee2 the same as table employees.  Use a single statement to create the table and insert the data at the same time. */
 

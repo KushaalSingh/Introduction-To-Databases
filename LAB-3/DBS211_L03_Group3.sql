@@ -1,10 +1,3 @@
--- ----------------------------------
--- DBS211 - Lab 03
--- Name: Kushaal Singh
--- StudentID: 115320228
--- Date: 29/05/2023
--- ----------------------------------
-
 -- Question 1
 /* 1. Display the data for all offices. Display office code, city, state, country, and phone for all offices. */
 
