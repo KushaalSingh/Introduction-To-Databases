@@ -1,10 +1,3 @@
--- ----------------------------------
--- DBS211 - Lab 01
--- Name: Kushaal Singh
--- StudentID: 115320228
--- Date: 13/5/2023
--- ----------------------------------
-
 -- Question 1
 /* How many tables have been created? List the names of the created tables. */
 
@@ -139,5 +132,3 @@ TERRITORY    NOT NULL VARCHAR2(10) */
    Step 3: Go to 'Code editor'
    Step 4: Go to 'Fonts'
    Step 5: Select your desired font size */
-   
-
